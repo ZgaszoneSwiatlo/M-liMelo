@@ -1,0 +1,26 @@
+body {
+    background-image: url(8351171.gif);
+    background-size: cover;
+
+}
+
+#texte {
+    color:#423984;
+     font-size: 1.5em;
+    font-weight: normal;
+}
+
+a:link{
+    text-decoration: none;
+    color:aliceblue;
+    transition: all 1s ease-out;
+    background-color: 2;
+}
+
+a:hover{
+    text-decoration: underline;
+    font-size: 1.2em;
+}
+
+a:visited{
+    color:#cab2e2;
